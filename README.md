@@ -13,5 +13,8 @@
 
 1. Для установки просто скопируйте данный репозиторий с помощью git
 2. Импортируйте библиотеку и создайте экземпляр класса
-  from analizeText import AnalizeText
-  analize = AnalizeText("Ваш Текст")
+  
+```
+from analizeText import AnalizeText
+analize = AnalizeText("Ваш Текст")
+```
